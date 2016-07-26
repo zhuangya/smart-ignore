@@ -1,0 +1,30 @@
+{
+  "name": "smart-ignore",
+  "version": "0.0.0",
+  "description": "generate ignore list in a smart way",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/smart-ignore.git"
+  },
+  "keywords": [
+    "ignore"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangya/smart-ignore/issues"
+  },
+  "homepage": "https://github.com/zhuangya/smart-ignore#readme",
+  "dependencies": {
+    "gittop": "0.0.2",
+    "ignore-by-default": "^1.0.1"
+  },
+  "devDependencies": {
+    "arr-xor": "^1.0.1",
+    "ava": "^0.15.2"
+  }
+}

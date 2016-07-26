@@ -1,0 +1,3 @@
+#smart ignore
+
+:imp:
