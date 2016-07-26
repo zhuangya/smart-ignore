@@ -1,6 +1,6 @@
 {
   "name": "smart-ignore",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "generate ignore list in a smart way",
   "main": "index.js",
   "scripts": {
