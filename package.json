@@ -25,6 +25,6 @@
   },
   "devDependencies": {
     "arr-xor": "^1.0.1",
-    "ava": "^0.15.2"
+    "ava": "^2.1.0"
   }
 }
